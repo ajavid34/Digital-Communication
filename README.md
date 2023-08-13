@@ -1,13 +1,13 @@
-This repository contains my Digiatl Communication course projects at University of Tehran.
+This repository contains my Digital Communication course projects at the University of Tehran.
 
 ## CA1
 Information Theory basics: 
 
-Enthropy Estimation for Stationary Markov Source.
+Entropy Estimation for Stationary Markov Source.
 
 Calculate Average Huffman Code Length.
 
-Enthropy Estimation for Memory-less Source.
+Entropy Estimation for Memory-less Source.
 
 ## CA2
 Implement simple BPAM:
